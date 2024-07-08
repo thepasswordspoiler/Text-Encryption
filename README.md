@@ -14,7 +14,7 @@ This is a simple text encryption and decryption tool developed using Python and 
 
 - tkinter: Python's standard GUI (included with most Python installations).
 - Run the application:
-- python main.py
+-  bash python main.py.
 
 # Usage
 - Enter the text you want to encrypt into the text box.
@@ -22,6 +22,8 @@ This is a simple text encryption and decryption tool developed using Python and 
 - Click ENCRYPT to encrypt the text.
 - Click DECRYPT to decrypt the encrypted text (ensure the encrypted text is in the text box).
 - Click RESET to clear the text box and password field.
-- 
+
+# Technology Used
+- Python Programming Language.
 # Acknowledgments
 - Developed by @thepasswordspoiler.
