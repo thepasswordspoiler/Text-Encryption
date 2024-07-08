@@ -7,7 +7,7 @@ This is a simple text encryption and decryption tool developed using Python and 
 - Password Protection: Requires a password (currently set as "1234") for both encryption and decryption operations.
 - Reset Functionality: Clears input fields for re-entry.
 
-#Installation
+# Installation
 
 - Clone the repository.
 - Ensure you have Python installed. This tool requires Python 3.x and the following dependencies:
